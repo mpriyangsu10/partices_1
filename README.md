@@ -1,2 +1,3 @@
 # partices_1
-partices_git_&amp;_fithub
+partices__git_&amp;_fithub
+
